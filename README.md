@@ -1,3 +1,15 @@
+# sorting-visualizer
+Built a web application in javascript to visualize sorting algorithms. Also implemented various algorithms such as BubbleSort, HeapSort, MergeSort and QuickSort.
+
+# Available Algorithms
+Insertion Sort\
+Merge Sort\
+Quick Sort\
+
+# Still have to implement
+Bubble Sort\
+Heap Sort\
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
